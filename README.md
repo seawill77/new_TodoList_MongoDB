@@ -1,3 +1,17 @@
+第二次作业———— TODO:
+
+1. 下载 Intellij    https://www.jetbrains.com/idea/
+2. 学习 MongoDB 入门知识
+3. clone 项目 本地运行。  
+4. debug
+5. aws ec2 部署的基本知识  
+
+ps： 有问题发邮件 sean77.lu@gmail.com 
+
+
+
+
+
 [![Build Status](https://travis-ci.org/B2D1/TodoList.svg?branch=master)](https://travis-ci.org/B2D1/TodoList)
 
 ## 🚩 一款基于 TS React AntD Koa2 MongoDB 实现的 TodoList 全栈应用
