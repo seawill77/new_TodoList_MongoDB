@@ -33,7 +33,7 @@
 
 ```bash
 # clone
-git clone https://github.com/B2D1/TodoList.git
+git clone git clone git@github.com:seawill77/new_TodoList_MongoDB.git
 
 # 全局安装 nodemon
 yarn global add nodemon
@@ -60,3 +60,5 @@ yarn
 # 运行项目
 yarn start
 ```
+
+
