@@ -46,7 +46,7 @@ cd /TodoList/server
 # 安装后端所需要的依赖包
 yarn
 
-# 启动后端服务，监听本地 5000 端口，请自行下载 MongoDB，并开启数据库服务
+# 启动后端服务，监听本地 5000 端口，请先下载 MongoDB， https://www.runoob.com/mongodb/mongodb-osx-install.html 并开启数据库服务  建议使用brew
 yarn run watch
 ```
 
